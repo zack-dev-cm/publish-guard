@@ -6,6 +6,17 @@ Publish Guard is a small public OpenClaw skill for pre-release audits. It catche
 public-audience mismatch, broken first-run copy, and launch-surface problems before a GitHub repo or
 ClawHub skill goes live.
 
+## Proof
+
+```md
+# Publish Guard Audit
+
+- Recommendation: **Publish**
+- Launch copy score: **100/100** (publish-ready)
+- Leak scan: **0** findings
+- Public surface scan: **0** findings
+```
+
 ## Quick Start
 
 ```bash
@@ -57,4 +68,3 @@ python3 skill/publish-guard/scripts/render_public_audit.py \
 ## License
 
 MIT
-
