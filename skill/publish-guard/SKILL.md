@@ -2,7 +2,7 @@
 name: publish-guard
 description: Review a repo, README, SKILL.md, release notes, and social copy before publishing. Catch leak risks, weak public-facing copy, broken first-run paths, and internal operator language before GitHub or ClawHub release.
 homepage: https://zack-dev-cm.github.io/
-license: MIT
+license: MIT-0
 user-invocable: true
 metadata: {"openclaw":{"homepage":"https://zack-dev-cm.github.io/","skillKey":"publish-guard","requires":{"anyBins":["python3","python"]}}}
 ---

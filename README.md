@@ -67,4 +67,4 @@ python3 skill/publish-guard/scripts/render_public_audit.py \
 
 ## License
 
-MIT
+MIT No Attribution (MIT-0)
