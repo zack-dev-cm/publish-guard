@@ -2,6 +2,7 @@
 name: publish-guard
 description: Review a repo, README, SKILL.md, release notes, and social copy before publishing. Catch leak risks, weak public-facing copy, broken first-run paths, and internal operator language before GitHub or ClawHub release.
 homepage: https://zack-dev-cm.github.io/
+license: MIT
 user-invocable: true
 metadata: {"openclaw":{"homepage":"https://zack-dev-cm.github.io/","skillKey":"publish-guard","requires":{"anyBins":["python3","python"]}}}
 ---
@@ -69,4 +70,3 @@ The output should answer one question clearly: publish now, or fix specific item
   - Produce a simple launch-copy score for the primary README.
 - `scripts/render_public_audit.py`
   - Merge the JSON outputs into one concise markdown audit.
-
