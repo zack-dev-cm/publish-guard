@@ -1,16 +1,16 @@
 ---
-name: publish-guard
+name: public-surface-review
 description: Publish Guard is a public ClawHub pre-release audit skill. Use it when the user says "publish guard", "release audit", "pre-release check", or wants to review a repo, README, SKILL.md, and public metadata before GitHub or ClawHub publish.
-version: 1.0.3
+version: 1.0.5
 homepage: https://zack-dev-cm.github.io/
 license: MIT-0
 user-invocable: true
-metadata: {"openclaw":{"homepage":"https://zack-dev-cm.github.io/","skillKey":"publish-guard","requires":{"anyBins":["python3","python"]}}}
+metadata: {"openclaw":{"homepage":"https://zack-dev-cm.github.io/","skillKey":"public-surface-review","requires":{"anyBins":["python3","python"]}}}
 ---
 
 # Publish Guard
 
-Search intent: `publish guard`, `release audit`, `pre-release check`, `clawhub publish audit`
+Search intent: `publish guard`, `public surface review`, `release audit`, `pre-release check`, `clawhub publish audit`
 
 ## Goal
 
